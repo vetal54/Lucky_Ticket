@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">kotlin_Lucky_Ticket</string>
+    <string name="check">Check</string>
+    <string name="lucky">Lucky ticket number</string>
+    <string name="unlucky">Unlucky ticket number</string>
+    <string name="incorrectLength">Ticket number length is incorrect</string>
+    <string name="todo">TODO</string>
+</resources>
